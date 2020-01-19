@@ -11,7 +11,7 @@ public class AdsManager : MonoBehaviour
 
     private int period = 0;
     //Google Play gameID
-    private string gameId = "2582701";
+    private string gameId = "3434426";
 
     void Awake()
     {

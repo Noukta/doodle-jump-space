@@ -10863,7 +10863,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5eed1f975bf46554d9b1ad1285f937bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxPeriod: 3
+  maxPeriod: 2
 --- !u!1 &1321649002
 GameObject:
   m_ObjectHideFlags: 0
